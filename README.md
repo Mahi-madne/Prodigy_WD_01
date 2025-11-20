@@ -22,7 +22,7 @@ HTML, CSS, Font Awesome
 
 📂 How to Run
 
-Just open index.html in your browser.
+Just open goat.html in your browser.
 (No backend required.)
 
 📌 Highlights
